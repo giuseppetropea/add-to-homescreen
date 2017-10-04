@@ -1,14 +1,14 @@
 {
   "name": "add-to-homescreen",
-  "version": "3.2.3",
+  "version": "3.2.2",
   "homepage": "https://github.com/cubiq/add-to-homescreen",
   "authors": [
     "Matteo Spinelli <matteo@cubiq.org> (http://cubiq.org)"
   ],
   "description": "Add to homescreen call out for iOS and Android",
   "main": [
-    "src/addtohomescreen.min.js",
-    "style/addtohomescreen.css"
+    "dist/addtohomescreen.min.js",
+    "dist/style/addtohomescreen.css"
   ],
   "ignore": [
     "demos",
